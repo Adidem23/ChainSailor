@@ -1,0 +1,21 @@
+.Ironfeatures{
+    display: block;
+    margin: auto;
+    width: fit-content;
+    margin-top: 50px;
+   
+}
+
+.text-heading {
+    font-size: 5rem; /* Adjust the font size */
+    font-weight: bold; /* Make the text bold */
+    margin-bottom: 10px;
+    color: white;
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
+
+.Ironfeatures img{
+    
+}

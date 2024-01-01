@@ -1,0 +1,14 @@
+.bord{
+    display: block;
+    margin: auto;
+    background-image: url('../assets/Wave.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bord img{
+    height: 500px;
+    width: 1300px;
+    display: block;
+    margin: auto;
+}
