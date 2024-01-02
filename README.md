@@ -24,7 +24,7 @@
 
 ## About The Project
 
- ##  ChainSailor : 
+ ##  ChainSailor : Dev Tool For Blockchain Developers
  
 
 
