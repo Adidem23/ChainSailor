@@ -94,9 +94,10 @@ npm run dev
 
 # Deployments :
 
--  Thirdweb NFT Smart Contract :  https://thirdweb.com/mumbai/0xd6a3BF227569DEf525643914Db7A87ed3a98A731
+-  Thirdweb NFT Smart Contract : https://thirdweb.com/mumbai/0xd6a3BF227569DEf525643914Db7A87ed3a98A731
 -  Deployed Site Link : https://chainsailor.netlify.app/
 -  NPM Package EnchantMask (It is Created By me and I have used it in Metatool): https://www.npmjs.com/package/enchantmask
+-  EnachantDocs: https://enchant-docs.vercel.app/ 
 
 # Screenshots : 
 
