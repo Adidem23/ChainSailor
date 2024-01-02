@@ -26,27 +26,13 @@
 
  ##  ChainSailor : Dev Tool For Blockchain Developers
 
- Introducing ChainSailor, an indispensable companion for blockchain developers navigating the dynamic landscape of decentralized applications. Crafted with precision and innovation, our devtool empowers developers with a robust suite of features tailored to streamline and enhance their workflow. Seamlessly integrating with MetaMask, the industry-standard Ethereum wallet, ChainSailor opens the gateway to effortless interaction with smart contracts and blockchain functionalities. Among its standout capabilities are the seamless creation of Non-Fungible Tokens (NFTs), providing developers with a simple yet powerful tool to tokenize digital assets. Additionally, our devtool facilitates frictionless IPFS data uploads, enabling developers to store and retrieve decentralized content effortlessly. Elevate your blockchain development experience with ChainSailor, the key to unlocking the full potential of decentralized applications
+Introducing ChainSailor, an indispensable companion for blockchain developers navigating the dynamic landscape of decentralized applications. Crafted with precision and innovation, our devtool empowers developers with a robust suite of features tailored to streamline and enhance their workflow. Seamlessly integrating with MetaMask, the industry-standard Ethereum wallet, ChainSailor opens the gateway to effortless interaction with smart contracts and blockchain functionalities. Among its standout capabilities are the seamless creation of Non-Fungible Tokens (NFTs), providing developers with a simple yet powerful tool to tokenize digital assets. Additionally, our devtool facilitates frictionless IPFS data uploads, enabling developers to store and retrieve decentralized content effortlessly. Elevate your blockchain development experience with ChainSailor, the key to unlocking the full potential of decentralized applications
 
 
 ## Key Features:
 
-# 1.switchChain(): 
-This method facilitates seamless switching between Ethereum chains, allowing users to effortlessly navigate different networks supported by MetaMask.
-
-# 2.getPublicEncryptionKey(): 
-Retrieve the encryption key associated with the Ethereum account currently connected via MetaMask.
-
-# 3.connectAccount() : 
-Initiate a request for user accounts, prompting MetaMask to provide account information for transaction authorization.
-
-# 4.signMessage() :
-Enable personal signing capabilities, allowing users to sign messages or transactions using their MetaMask accounts securely.
-
-# 5. getBlockNumber() : 
-Retrieve the latest block number on the Ethereum blockchain.
-
-... and Many More 
+# WEB3GPT : 
+- 
 
 # Built With 
  <div>
