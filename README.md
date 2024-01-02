@@ -95,7 +95,7 @@ npm run dev
 ##  Deployments :
 
 - Thirdweb NFT Smart Contract : https://thirdweb.com/mumbai/0xd6a3BF227569DEf525643914Db7A87ed3a98A731
-- Deployed Site Link : 
+- Deployed Site Link : https://chainsailor.netlify.app/
 
 
 
