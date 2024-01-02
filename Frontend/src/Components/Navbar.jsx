@@ -19,7 +19,7 @@ const Navbar = () => {
         <Link to={"/ipfs"} style={{listStyle:"none" ,textDecoration:"none"}}><li><a>IPFS</a></li></Link>
       </ul>
 
-      <a href={"https://github.com/Adidem23/EnchantMask"}><button className="pushable">
+      <a href={"https://github.com/Adidem23/ChainSailor"}><button className="pushable">
         <span className="shadow"></span>
         <span className="edge"></span>
         <span className="front" id='munde'>
