@@ -76,7 +76,7 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
   Download Nodejs Version ^ 18.0.0 LTS 
   ```
 
-### Installation : 
+# Installation : 
 Follow The Installation manual and install dependencies 
 
 1. Clone Project and go inside Frontend
