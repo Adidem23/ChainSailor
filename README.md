@@ -100,6 +100,10 @@ npm run dev
 
 # Screenshots : 
 
+# Frontend
+  <img width="960" alt="Screenshot 2024-01-02 222928" src="https://github.com/Adidem23/ChainSailor/assets/124609794/7feb29bf-4319-444f-a7e7-ca9b9e35b626">
+
+
 
 # Video : 
 
