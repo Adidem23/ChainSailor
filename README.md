@@ -22,14 +22,14 @@
   </ol>
 </details>
 
-## About The Project
+## About The Project : 
 
  ##  ChainSailor : Dev Tool For Blockchain Developers
 
 Introducing ChainSailor, an indispensable companion for blockchain developers navigating the dynamic landscape of decentralized applications. Crafted with precision and innovation, our devtool empowers developers with a robust suite of features tailored to streamline and enhance their workflow. Seamlessly integrating with MetaMask, the industry-standard Ethereum wallet, ChainSailor opens the gateway to effortless interaction with smart contracts and blockchain functionalities. Among its standout capabilities are the seamless creation of Non-Fungible Tokens (NFTs), providing developers with a simple yet powerful tool to tokenize digital assets. Additionally, our devtool facilitates frictionless IPFS data uploads, enabling developers to store and retrieve decentralized content effortlessly. Elevate your blockchain development experience with ChainSailor, the key to unlocking the full potential of decentralized applications
 
 
-## Key Features:
+## Key Features :
 
 # WEB3GPT : 
 - WEB3GPT is Key Feature of ChainSailor where we have to enter prompt related to web3 it will fetch data for you . You can say it as ChatGPT for web3 .
@@ -43,6 +43,8 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 # IPFS : 
 - This provides one click IPFS deployment . For now It only porvides deployment for text but in next days it will of file and text
 
+<br />
+<br />
 
 # Built With : 
 
