@@ -87,6 +87,7 @@ npm install / npm install --force(If Error Comes
 ```sh
 npm run dev 
 ```
+ 3. App is Running on localhost:5173 😎
 
 
 ##  Deployments : 
