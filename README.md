@@ -54,7 +54,6 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
   <div style="display: flex; flex-direction:row;">
      <p>Metamask</p>
       <p>ViteJS</p>
-    </div>
   </div>
 
 
