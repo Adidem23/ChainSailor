@@ -80,14 +80,16 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 Follow The Installation manual and install dependencies 
 
 1. Clone Project and go inside Frontend
-   ```sh
-npm install / npm install --force(If Error Comes
-   ```
+ ```sh
+   npm install / npm install --force(If Error Comes)
+ ```
+
 2. Run Following Command in terminal
 ```sh
 npm run dev 
 ```
- 3. App is Running on localhost:5173 😎
+
+3. App is Running on localhost:5173 😎
 
 
 ##  Deployments : 
