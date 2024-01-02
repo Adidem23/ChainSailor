@@ -56,13 +56,14 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 
   - AlongSide of this used Stable-diffusion API and LightHouse.storage for IPFS
   
-### Prerequisites
+### Prerequisites : 
 
 * npm
   ```sh
   npm install npm@latest -g
   ```
-* You May Require Metamask Wallet and Some Matic or Testnet Tokens Also and Some Cases NVM(NodeJS Version Manager) Also 
+* You Require Metamask Wallet and Some polygon Mumbai matic Tokens
+*  You Require Thirdweb Account , Google-Gemini API Key and LightHouse.storage(Optional)
   
 * NodeJs
   ```sh
