@@ -47,11 +47,11 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 # Built With : 
 
   <div style="display: flex; flex-direction:row;">
-   <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px" />
+  <img src="https://github.com/Adidem23/EnchantMask/assets/124609794/2a5e894a-a648-4169-87d5-b7f4b16e3255" height="120px" width="120px" />
   <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/cd54d029-6cc2-40c6-8c81-2beabf2d14bd" height="120px" width="120px" />
   <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/52ec65a2-1e7f-4de4-8e18-c0ea16a1217c" height="120px" width="120px" />
   <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/8c455502-3384-4724-a985-62fc2a63c36c" height="120px" width="120px" />
-   
+  <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/7a77fb0c-a051-4929-a30b-09f39081a2e5" height="120px" width="120px" />  
   </div>
   
 ### Prerequisites
