@@ -86,14 +86,15 @@ Follow The Installation manual and install dependencies
 
 2. Run Following Command in terminal
 ```sh
-npm run dev 
+npm run dev
 ```
 
 3. App is Running on localhost:5173 😎
 
 
 ##  Deployments :
-- Thirdweb NFT Smart Contract : 
+
+- Thirdweb NFT Smart Contract : https://thirdweb.com/mumbai/0xd6a3BF227569DEf525643914Db7A87ed3a98A731
 
 
 
