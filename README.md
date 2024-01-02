@@ -38,7 +38,11 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 - It is Metamask Interaction tool which interacts with metamask and simplify transactions and blocknumber data . It uses <strong>Enchantmask</strong> npm package created by me for the interaction .
 
 # NFT-playground : 
-- It is AI NFT minter which takes your Prompt and creates its image with stable Diffusion and we can mint that given Image and import it as token in metamask  
+- It is AI NFT minter which takes your Prompt and creates its image with stable Diffusion and we can mint that given Image and import it as token in metamask .
+
+# IPFS : 
+- This provides one click IPFS deployment . For now It only porvides deployment for text but in next days it will of file and text
+
 
 # Built With 
  <div>
