@@ -182,5 +182,5 @@ npm run dev
 # Video :
 - YT LINK : https://youtu.be/AZ6M-Y8ADVg
   
-# Contributiions : 
+# Contributions : 
 New Contributors are welcome and I need Knowledge about Scalability of WebApps
