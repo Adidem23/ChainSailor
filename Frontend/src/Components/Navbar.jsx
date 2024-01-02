@@ -15,9 +15,8 @@ const Navbar = () => {
       <ul className="nav-links">
         <Link to={"/Web3"} style={{listStyle:"none" ,textDecoration:"none"}}><li><a href={"#"}>Web3GPT</a></li></Link>
         <Link to={"/metatool"} style={{listStyle:"none" ,textDecoration:"none"}}><li><a>MetaTool</a></li></Link>
-        <li><a href="#">NFT</a></li>
-        <li><a href="#">Marketplace</a></li>
-        <li><a href="#">IPFS</a></li>
+        <Link to={"/mint"} style={{listStyle:"none" ,textDecoration:"none"}}><li><a>NFTPlayground</a></li></Link>
+        <Link to={"/ipfs"} style={{listStyle:"none" ,textDecoration:"none"}}><li><a>IPFS</a></li></Link>
       </ul>
 
       <a href={"https://github.com/Adidem23/EnchantMask"}><button className="pushable">
