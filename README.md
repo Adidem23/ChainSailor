@@ -55,8 +55,10 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
    <br />
    
     <div>
-     <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/cd54d029-6cc2-40c6-8c81-2beabf2d14bd" height="120px" width="120px" />
+  <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/cd54d029-6cc2-40c6-8c81-2beabf2d14bd" height="120px" width="120px" />
+  <p>ViteJS</p>
     </div>
+    
   </div>
   
 ### Prerequisites
