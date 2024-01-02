@@ -92,12 +92,15 @@ npm run dev
 3. App is Running on localhost:5173 😎
 
 
-##  Deployments :
+# Deployments :
 
 - Thirdweb NFT Smart Contract : https://thirdweb.com/mumbai/0xd6a3BF227569DEf525643914Db7A87ed3a98A731
 - Deployed Site Link : https://chainsailor.netlify.app/
 - NPM Package EnchantMask : https://www.npmjs.com/package/enchantmask
 
+# Screenshots : 
 
+
+# Video : 
 
 
