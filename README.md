@@ -32,7 +32,12 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 ## Key Features:
 
 # WEB3GPT : 
-- WEB3GPT is Key Feature of ChainSailor where we have to enter prompt related to web3 it will fetch data for you . You can say it as ChatGPT for web3 . 
+- WEB3GPT is Key Feature of ChainSailor where we have to enter prompt related to web3 it will fetch data for you . You can say it as ChatGPT for web3 .
+
+# MetaTool : 
+- It is Metamask Interaction tool which interacts with metamask and simplify transactions and blocknumber data . It uses <strong>Enchantmask</strong> npm package created by me for the interaction .
+
+# 
 
 # Built With 
  <div>
