@@ -1,0 +1,23 @@
+.ipfsDiv{
+    display: block;
+    width: fit-content;
+     margin: auto;
+     background: cover;
+     height: 100vh;
+}
+
+.ipfsDiv h2{
+    display: block;
+    margin: auto;
+    width: fit-content;
+    color: white;
+    font-size: 2.3rem;
+    margin-top: 20px;
+}
+
+.textareaChu{
+   width: 992px;
+   height: 352px;
+   color:black;
+   font-size: 1.2rem;
+}
