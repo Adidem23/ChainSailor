@@ -62,7 +62,7 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 
   - AlongSide of this used Stable-diffusion API  from huggingFace.com and LightHouse.storage for IPFS
   
-### Prerequisites : 
+# Prerequisites : 
 
 * npm
   ```sh
