@@ -54,7 +54,7 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
   <img src="https://github.com/Adidem23/ChainSailor/assets/124609794/7a77fb0c-a051-4929-a30b-09f39081a2e5" height="120px" width="120px" />    
   </div>
 
-  - AlongSide of this used Stable-diffusion API and LightHouse.storage for IPFS
+  - AlongSide of this used Stable-diffusion API  from huggingFace.com and LightHouse.storage for IPFS
   
 ### Prerequisites : 
 
