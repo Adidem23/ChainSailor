@@ -52,6 +52,13 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
     </div>
   </div>
 
+  <div style="display: flex;">
+     <p>Metamask</p>
+      <p>ViteJS</p>
+    </div>
+  </div>
+
+
 ### Prerequisites
 
 * npm
