@@ -70,12 +70,17 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
   Download Nodejs Version ^ 18.0.0 LTS 
   ```
 
-### Installation
+### Installation : 
 Follow The Installation manual and install dependencies 
 
-1.Install Directly From NPM 
+1. Clone Project and go inside Frontend
    ```sh
-npm i enchantmask@lastest / npm i enchantmask@lastest --force (IF Any Error Occurs)
+npm install / npm install --force(If Error Comes
    ```
+2. Run Following Command in terminal
+```sh
+npm run dev 
+```
 
-# Read Docs At : https://enchant-docs.vercel.app/
+
+##  Deployments : 
