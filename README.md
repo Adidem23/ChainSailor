@@ -44,6 +44,9 @@ Introducing ChainSailor, an indispensable companion for blockchain developers na
 
 <br />
 
+# Video :
+- YT LINK : https://youtu.be/AZ6M-Y8ADVg
+
 # Built With : 
 
   <div style="display: flex; flex-direction:row;">
@@ -179,8 +182,7 @@ npm run dev
 <br />
 <img width="959" alt="Screenshot 2024-01-02 223123" src="https://github.com/Adidem23/ChainSailor/assets/124609794/89bb24c4-9fcd-4f09-a461-ff2fde004c86">
 
-# Video :
-- YT LINK : https://youtu.be/AZ6M-Y8ADVg
+
   
 # Contributions : 
 New Contributors are welcome and I need Knowledge about Scalability of WebApps
