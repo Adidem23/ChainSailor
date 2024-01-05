@@ -26,7 +26,8 @@
 
  ##  ChainSailor : Dev Tool For Blockchain Developers
 
-Introducing ChainSailor, a DevTool Which is made for newbie Blockchain Developers . 
+Introducing ChainSailor, a DevTool Which is made for newbie Blockchain Developers which helps them in coding and using blockchain tools . It has some feturs like WEB3GPT , Metatool , NFTPlayground and IPFS . 
+
 ## Key Features :
 
 # WEB3GPT : 
