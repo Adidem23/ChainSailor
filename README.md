@@ -42,8 +42,6 @@ Introducing ChainSailor, a DevTool Which is made for newbie Blockchain Developer
 # IPFS : 
 - This provides one click IPFS deployment . For now It only porvides deployment for text but in next days it will of file and text
 
-<br />
-
 # Video :
 - YT LINK : https://youtu.be/AZ6M-Y8ADVg
 
