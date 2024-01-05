@@ -1,5 +1,5 @@
 import '../CSS/HeroSection1.css'
-import Enchant from '../assets/main.png'
+import Enchant from '../assets/Main.png'
 
 const HeroSection1 = () => {
     return (
